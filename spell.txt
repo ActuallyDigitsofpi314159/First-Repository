@@ -1,1 +1,4 @@
 git init
+echo "hello" > spell.txt
+git add spell.txt
+g
